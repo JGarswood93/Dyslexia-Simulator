@@ -23,3 +23,4 @@ Disclaimer: This Master branch is the experimental branch meant for development 
 --
 
 Heavy inspiration from here: http://geon.github.io/programming/2016/03/03/dsxyliea
+# Dyslexia-Simulator
